@@ -1,4 +1,4 @@
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++![](https://komarev.com/ghpvc/?username=Ferent-Eusebiu&color=green)
+<!---      --->     ![](https://komarev.com/ghpvc/?username=Ferent-Eusebiu&color=green)
 
 - 👋 Hi, I’m @Ferent-Eusebiu
 - 👀 I’m interested in Raspberry and Arduino.
